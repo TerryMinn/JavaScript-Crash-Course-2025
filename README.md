@@ -3,9 +3,6 @@
 **Part of the “Modern JavaScript Crash Course – Learn JS in `hr` Hours (2025 Edition)”**  
 Build a minimalist inventory manager with pure JavaScript, HTML & CSS — designed to teach DOM manipulation, CRUD operations, and UI logic the way real developers use it today.
 
-> 🚀 Build this project step by step with our detailed tutorial on [JavaScript Mastery YouTube](https://youtube.com/javascriptmastery).  
-> Join 1M+ developers leveling up every week!
-
 ## 📋 Table of Contents
 
 - 🤖 Introduction
