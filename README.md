@@ -51,8 +51,8 @@ No frameworks. No bundlers. Just:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/inventory-manager-js-crashcourse.git
-cd inventory-manager-js-crashcourse
+git clone https://github.com/TerryMinn/JavaScript-Crash-Course-2025
+cd JavaScript-Crash-Course-2025
 ```
 
 ### 2. Open in your browser
